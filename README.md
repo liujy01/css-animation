@@ -9,4 +9,6 @@
 
 这就是所谓的交错动画：通过设置不同的延迟时间，达到动画交错播放的效果。
 
-![image](https://mmbiz.qpic.cn/mmbiz_gif/eXCSRjyNYcbUEQXuCB3lhwf8hCWhR5In0azefvmvlB4nNdXjggEKgXakl7KNq46CY0t2jCZqoJGO4pUOBDaU1Q/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+[![image](https://raw.githubusercontent.com/liujy01/css-animation/master/imgs/640.gif)](https://liujy01.github.io/css-animation/demo/jcdh.html)
+
+> Demo :(https://liujy01.github.io/css-animation/demo/jcdh.html)
